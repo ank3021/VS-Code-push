@@ -1,0 +1,17 @@
+#today
+{
+ font-size: 2.2em;
+ color: green;
+}
+
+#yesterday
+{
+ font-size: 1.2em;
+ color: blue;
+}
+
+#tomorrow
+{
+ font-size: 1.2em;
+ color: brown;
+}
