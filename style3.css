@@ -15,3 +15,15 @@
  font-size: 1.2em;
  color: brown;
 }
+#present
+{
+    font-size: 1.2em;
+    color: aquamarine;
+}
+#root
+{
+    background-color:darkgoldenrod;
+}
+table, th, td{
+    border: 3px ridge black;
+}
